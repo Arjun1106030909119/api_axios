@@ -6,7 +6,7 @@ function App() {
   const url="https://jsonplaceholder.typicode.com/"
   return (
     
-    </div>
+    
   );
 }
 
